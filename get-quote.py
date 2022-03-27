@@ -1,7 +1,7 @@
 def main():
   print("Keep it logically awesome.")
 
-  f = open("quotes.txt")
+  f = open("best_quote.txt")
   quotes = f.readlines()
   f.close()
 
